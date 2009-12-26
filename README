@@ -1,0 +1,29 @@
+Zen Coding
+------------------------------------
+
+Version: 1.0
+Author: Simone Economo (my.ekoes@gmail.com)
+Build Date: 26th Dec 2009
+Requirements: Symphony 2.0
+
+Allows HTML/XSLT hi-speed coding inside Symphony's page template and utility editors.
+
+[INSTALLATION]
+
+** Note: The latest version can alway be grabbed with "git clone git://github.com/eKoeS/symphony-zencoding.git"
+
+1. Upload the 'zencode' folder in this archive to your Symphony 'extensions' folder.
+
+2. Enable it by selecting the "Zen Coding", choose Enable from the with-selected menu, then click Apply.
+
+3. Reach the Nirvana by greeting a highly innovative and time-saving syntax to generate your markup (for more details visit: http://code.google.com/p/zen-coding/)
+
+4. Go to System > Preferences to enable/disable "Zen Coding".
+
+[FEATURES]
+
+* Zen Coding for <textarea> (http://zen-coding.ru/textarea/)
+* HTML & XSLT Profiles enabled (http://pepelsbey.net/pro/2008/08/zen-html/)
+* Tabs enabled (press [Tab] to indent)
+
+** Note: Zen Coding is only allowed inside textareas showing a "Zen Coding enabled" message on the very right. You can't miss it.

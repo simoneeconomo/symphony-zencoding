@@ -3,7 +3,7 @@ Zen Coding
 
 Version: 1.0
 Author: Simone Economo (my.ekoes@gmail.com)
-Build Date: 26th Dec 2009
+Build Date: 27th Dec 2009
 Requirements: Symphony 2.0
 
 Allows HTML/XSLT hi-speed coding inside Symphony's page template and utility editors.
@@ -22,7 +22,7 @@ Allows HTML/XSLT hi-speed coding inside Symphony's page template and utility edi
 
 [FEATURES]
 
-* Zen Coding for <textarea> (http://zen-coding.ru/textarea/)
+* Zen Coding for <textarea> v0.5 (http://zen-coding.ru/textarea/)
 * HTML & XSLT Profiles enabled (http://pepelsbey.net/pro/2008/08/zen-html/)
 * Tabs enabled (press [Tab] to indent)
 

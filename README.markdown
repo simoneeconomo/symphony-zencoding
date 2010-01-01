@@ -14,6 +14,7 @@ _Note_: The latest version can alway be grabbed with `git clone git://github.com
 1. Upload the `zencoding` folder in this archive to your Symphony `extensions` folder.
 2. Enable it by selecting the "Zen Coding", choose _Enable_ from the _with-selected_ menu, then click _Apply_.
 3. Greet a highly innovative and time-saving syntax to generate your markup at the speed of light (for more details see <http://code.google.com/p/zen-coding/>)
+   
    _Note_: Zen Coding is only allowed inside textareas showing a "Zen Coding is enabled" message on the very right. Come on dude, you can't miss it.
 4. Go to System > Preferences to enable/disable "Zen Coding".
 
@@ -57,7 +58,7 @@ Meta+L
 
 ## Change log
 
-### Version 1.1, 1st January 2010: 
+### Version 1.1.0, 1st January 2010: 
 
 - New settings in your preferences will let you choose which textarea fields you want Zen Coding enabled in.
 

@@ -176,7 +176,7 @@
 			$label->appendChild($select);
 
 			$group->appendChild($label);
-			$group->appendChild(new XMLElement('p', __('This will let you use Zen Coding in Textarea-based fields of your sections.'), array('class' => 'help')));
+			$group->appendChild(new XMLElement('p', __('Zen Coding will be enabled on the selected fields above.'), array('class' => 'help')));
 
 			$context['wrapper']->appendChild($group);
 		}

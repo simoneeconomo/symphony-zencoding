@@ -1,12 +1,12 @@
 Zen Coding
 ------------------------------------
 
-Version: 1.0
+Version: 1.1
 Author: Simone Economo (my.ekoes@gmail.com)
-Build Date: 27th Dec 2009
-Requirements: Symphony 2.0
+Build Date: 1st Jan 2010
+Requirements: Symphony 2.0.6+
 
-Allows HTML/XSLT hi-speed coding inside Symphony's page template and utility editors.
+Flavours Symphony's textarea fields with an incredibly easy-to-use, CSS-like syntax for writing HTML, XML & XSLT code.
 
 [INSTALLATION]
 
@@ -16,14 +16,37 @@ Allows HTML/XSLT hi-speed coding inside Symphony's page template and utility edi
 
 2. Enable it by selecting the "Zen Coding", choose Enable from the with-selected menu, then click Apply.
 
-3. Reach the Nirvana by greeting a highly innovative and time-saving syntax to generate your markup (for more details visit: http://code.google.com/p/zen-coding/)
+3. Greet a highly innovative and time-saving syntax to generate your markup at the speed of light (more details can be found here: http://code.google.com/p/zen-coding/)
+
+** Note: Zen Coding is only allowed inside textareas showing a "Zen Coding is enabled" message on the very right. Come on dude, you can't miss it.
 
 4. Go to System > Preferences to enable/disable "Zen Coding".
 
 [FEATURES]
 
-* Zen Coding for <textarea> v0.5 (http://zen-coding.ru/textarea/)
-* HTML & XSLT Profiles enabled (http://pepelsbey.net/pro/2008/08/zen-html/)
-* Tabs enabled (press [Tab] to indent)
+Includes Zen Coding for <textarea> v0.5 (http://zen-coding.ru/textarea/) with:
 
-** Note: Zen Coding is only allowed inside textareas showing a "Zen Coding enabled" message on the very right. You can't miss it.
+* XSLT Profile enabled
+* Tabs enabled (press [Tab] key to indent)
+* Formatted line breaks enabled (auto-indentation of lines when hitting [Enter] key)
+
+[SHORTCUTS]
+
+Meta+E 			— Expand Abbreviation
+Meta+D 			— Balance Tag Outward
+Shift+Meta+D 	— Balance Tag Inward
+Shift+Meta+A 	— Wrap With Abbreviation
+Ctrl+Alt+→ 		— Next Edit Point
+Ctrl+Alt+← 		— Previous Edit Point
+Meta+L 			— Select Line
+
+[RESOURCES & FURTHER READINGS]
+
+* Zen Coding on Google Code (http://code.google.com/p/zen-coding/)
+* Zen HTML elements (http://code.google.com/p/zen-coding/wiki/ZenHTMLElementsEn)
+* Zen HTML selectors (http://code.google.com/p/zen-coding/wiki/ZenHTMLSelectorsEn)
+* Zen Coding: A Speedy Way To Write HTML/CSS Code (http://www.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/)
+
+[CHANGE LOG]
+
+1.1 - New settings in your preferences will let you choose which textarea fields you want Zen Coding enabled in.

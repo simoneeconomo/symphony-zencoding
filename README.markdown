@@ -2,10 +2,10 @@
 
 Flavours Symphony's textarea fields with an incredibly easy-to-use, CSS-like syntax for writing HTML, XML & XSLT code.
 
-- Version: 1.1
+- Version: 1.1.1
 - Author: Simone Economo, my.ekoes@gmail.com
-- Build Date: 1st January 2010
-- Requirements: Symphony CMS 2.0.x
+- Build Date: 12th Aug 2010
+- Requirements: Symphony CMS 2.0.7+
 
 ## Installation
 
@@ -20,7 +20,7 @@ _Note_: The latest version can alway be grabbed with `git clone git://github.com
 
 _Note_: Zen Coding is only allowed inside textarea fields showing a gray "Zen Coding is enabled" message on the very right. Come on dude, you can't miss it.
 
-Includes [Zen Coding for <textarea>](http://zen-coding.ru/textarea/) v0.5 with:
+Includes [Zen Coding for <textarea>](http://zen-coding.ru/textarea/) v0.6 with:
 
 * XSLT Profile enabled
 * Tabs enabled (press `[Tab]` key to indent)
@@ -57,6 +57,11 @@ Meta+L
 * [«Zen Coding: A Speedy Way To Write HTML/CSS Code», on Smashing Magazine](http://www.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/)
 
 ## Change log
+
+### Version 1.1.1, 12th Aug 2010: 
+
+- Includes Zen Coding Textarea v0.6
+- JavaScript strings make use of the Symphony.Language API
 
 ### Version 1.1.0, 1st January 2010: 
 

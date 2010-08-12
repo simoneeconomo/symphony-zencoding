@@ -9,8 +9,8 @@
 
 		public function about(){
 			return array('name' => 'Zen Coding',
-						 'version' => '1.1',
-						 'release-date' => '2010-01-01',
+						 'version' => '1.1.1',
+						 'release-date' => '2010-08-12',
 						 'author' => array('name' => 'Simone Economo',
 										   'website' => 'http://www.lineheight.net',
 										   'email' => 'my.ekoes@gmail.com'),

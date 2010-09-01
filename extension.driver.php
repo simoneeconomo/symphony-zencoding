@@ -1,6 +1,6 @@
 <?php
 
-	require_once(TOOLKIT . '/class.sectionmanager.php');
+	require_once(DOCROOT . '/symphony/lib/toolkit/class.sectionmanager.php');
 
 	Class extension_ZenCoding extends Extension{
 
@@ -9,7 +9,7 @@
 
 		public function about(){
 			return array('name' => 'Zen Coding',
-						 'version' => '1.2',
+						 'version' => '1.1.2',
 						 'author' => array(
 							'name' => 'Simone Economo',
 							'website' => 'http://www.lineheight.net',
@@ -153,6 +153,8 @@
 
 			$textarea = $xpath->query("//textarea")->item(0);
 			$label = $textarea->parentNode;
+
+			if (!$textarea) return;
 
 			$classes = $textarea->attributes->getNamedItem('class');
 			$classes->appendChild($dom->createTextNode(' zc-use_tab-true zc-syntax-xsl zc-profile-xml'));

@@ -1,15 +1,4 @@
-# Zen Coding
-
-Flavours Symphony's textarea fields with an incredibly easy-to-use, CSS-like syntax for writing HTML, XML & XSLT code.
-
-- Version: 1.2
-- Author: Simone Economo, my.ekoes@gmail.com
-- Build Date: 31st Aug 2010
-- Requirements: Symphony CMS 2.0.7+
-
 ## Installation
-
-_Note_: The latest version can alway be grabbed with `git clone git://github.com/eKoeS/symphony-zencoding.git`
 
 1. Upload the `zencoding` folder in this archive to your Symphony `extensions` folder.
 2. Enable it by selecting the "Zen Coding", choose _Enable_ from the _with-selected_ menu, then click _Apply_.
@@ -18,7 +7,7 @@ _Note_: The latest version can alway be grabbed with `git clone git://github.com
 
 ## Features
 
-_Note_: Zen Coding is only allowed inside textarea fields showing a gray "Zen Coding is enabled" message on the very right. Come on dude, you can't miss it.
+_Note_: Zen Coding is only allowed inside textarea fields showing a gray "Zen Coding is enabled" message on the very right. You can't miss it.
 
 Includes [Zen Coding for <textarea>](http://zen-coding.ru/textarea/) v0.6 with:
 

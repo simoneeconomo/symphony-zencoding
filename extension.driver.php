@@ -11,7 +11,7 @@
 		public function about(){
 			return array(
 					'name' => 'Zen Coding',
-					'version' => '1.2',
+					'version' => '1.2.1',
 					'author' => array(
 						'name' => 'Simone Economo',
 						'website' => 'http://www.lineheight.net',

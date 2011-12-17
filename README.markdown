@@ -9,7 +9,7 @@
 
 _Note_: Zen Coding is only allowed inside textarea fields showing a gray "Zen Coding is enabled" message on the very right. You can't miss it.
 
-Includes [Zen Coding for <textarea>](http://zen-coding.ru/textarea/) v0.6 with:
+Includes [Zen Coding for textarea](http://zen-coding.ru/textarea/) v0.6 with:
 
 * XSLT Profile enabled
 * Tabs enabled (press `[Tab]` key to indent)

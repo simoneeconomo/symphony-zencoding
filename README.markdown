@@ -1,5 +1,7 @@
 **This extension is no longer maintained. If you want to adopt it, please [drop me a line](https://github.com/eKoeS).**
 
+Who said the speed of light is unbreakable? Zen Coding uses the deep enlightenment of the Zen school to speed up your workflow as never before. Thanks to an incredibly easy-to-use, damn simple CSS-like syntax for writing HTML, XML & XSLT your life won't ever be the same. As _speedy_ as it sounds.
+
 ## Installation & Updating
 
 Information about [installing and updating extensions](http://symphony-cms.com/learn/tasks/view/install-an-extension/) can be found in the Symphony documentation at <http://symphony-cms.com/learn/>.

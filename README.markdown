@@ -1,19 +1,16 @@
-## Installation
+**This extension is no longer maintained. If you want to adopt it, please [drop me a line](https://github.com/eKoeS).**
 
-1. Upload the `zencoding` folder in this archive to your Symphony `extensions` folder.
-2. Enable it by selecting the "Zen Coding", choose _Enable_ from the _with-selected_ menu, then click _Apply_.
-3. Greet a highly innovative and time-saving syntax to generate your markup at the speed of light (for more details see: <http://code.google.com/p/zen-coding/>)
-4. Go to System > Preferences to enable/disable "Zen Coding".
+## Installation & Updating
+
+Information about [installing and updating extensions](http://symphony-cms.com/learn/tasks/view/install-an-extension/) can be found in the Symphony documentation at <http://symphony-cms.com/learn/>.
 
 ## Features
-
-_Note_: Zen Coding is only allowed inside textarea fields showing a gray "Zen Coding is enabled" message on the very right. You can't miss it.
 
 Includes [Zen Coding for textarea](http://zen-coding.ru/textarea/) v0.6 with:
 
 * XSLT Profile enabled
-* Tabs enabled (press `[Tab]` key to indent)
-* Formatted line breaks enabled (auto-indentation of lines when hitting `[Enter]` key)
+* Tabs enabled (press `[Tab]` to indent)
+* Formatted line breaks enabled (auto-indentation of lines when hitting `[Enter]`)
 
 ## Shortcuts
 
